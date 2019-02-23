@@ -1,5 +1,5 @@
 # Highlighter_Haar_Cascade
-Haar Cascade to detect highlighter
+Haar Cascade to detect highlighter and frontal face
 
 ## Required installations
 [OpenCV](https://pypi.org/project/opencv-python/)        
